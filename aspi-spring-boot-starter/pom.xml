@@ -11,5 +11,10 @@
 
     <artifactId>aspi-spring-boot-starter</artifactId>
 
-
+    <dependencies>
+        <dependency>
+            <groupId>com.github.shuaidd</groupId>
+            <artifactId>aspi-spring-boot-autoconfigurator</artifactId>
+        </dependency>
+    </dependencies>
 </project>

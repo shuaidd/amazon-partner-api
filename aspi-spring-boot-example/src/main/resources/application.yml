@@ -1,0 +1,10 @@
+amazon-api:
+  sandbox: false
+  aws:
+    access-key-id:
+    secret-key:
+    role-arn:
+  amazon-client:
+    client-id:
+    client-secret:
+    refresh-token:
