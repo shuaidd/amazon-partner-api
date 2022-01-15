@@ -16,13 +16,10 @@ import org.springframework.beans.factory.annotation.Autowired;
  **/
 public class OrderApiTest extends AbstractTest {
 
-    @Autowired
-    private AmazonPartnerApiManager partnerApiManager;
-
     @Test
     public void getOrder() {
-        OrderApi orderApi = partnerApiManager.getApiClient(OrderApi.class, EndPoint.EU_WEST,"");
-        GetOrderResponse response = orderApi.getOrder("");
+        OrderApi orderApi = amazonPartnerApiManager.getApiClient(OrderApi.class, EndPoint.EU_WEST,partnerProperties.getAmazonClient().getRefreshToken());
+        GetOrderResponse response = orderApi.getOrder("113-8318517-8753850");
         logger.info("{}",response);
     }
 }

@@ -4,11 +4,10 @@ package com.github.shuaidd.aspi.api.support;
 import java.util.concurrent.ConcurrentHashMap;
 
 public class LWAAccessTokenCacheImpl implements LWAAccessTokenCache {
-  //in milliseconds; to avoid returning a token that would expire before or while a request is made
-    private long expiryAdjustment = 60 * 1000;
+
     private static final long SECOND_TO_MILLIS = 1000;
-    private ConcurrentHashMap<Object, Object> accessTokenHashMap =
-            new ConcurrentHashMap<Object, Object>();
+    private final ConcurrentHashMap<Object, Object> accessTokenHashMap = new ConcurrentHashMap<Object, Object>();
+
     @Override
     public void put(Object oLWAAccessTokenRequestMeta, String accessToken, long tokenTTLInSeconds) {
         LWAAccessTokenCacheItem accessTokenCacheItem = new LWAAccessTokenCacheItem();
@@ -26,6 +25,7 @@ public class LWAAccessTokenCacheImpl implements LWAAccessTokenCache {
             LWAAccessTokenCacheItem accessTokenData =
                     (LWAAccessTokenCacheItem) accessTokenValue;
             long currentTime = System.currentTimeMillis();
+            long expiryAdjustment = 60 * 1000;
             long accessTokenExpiredTime = accessTokenData.getAccessTokenExpiredTime() - expiryAdjustment;
             if (currentTime < accessTokenExpiredTime) {
                 return accessTokenData.getAccessToken();
@@ -33,5 +33,4 @@ public class LWAAccessTokenCacheImpl implements LWAAccessTokenCache {
         }
         return null;
     }
-
 }

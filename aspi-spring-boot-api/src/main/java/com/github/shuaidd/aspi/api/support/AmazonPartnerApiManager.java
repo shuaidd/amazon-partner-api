@@ -33,7 +33,7 @@ public class AmazonPartnerApiManager {
     }
 
     /**
-     * 获取各种api操作客户端
+     * 获取各种api操作客户端，需要token的
      *
      * @param apiCls   实际API类型
      * @param endPoint 亚马逊端点
@@ -46,6 +46,18 @@ public class AmazonPartnerApiManager {
     }
 
     /**
+     * grantless 操作
+     * @param apiCls 实际API类型
+     * @param endPoint 亚马逊端点
+     * @param scopes 权限范围
+     * @param <T> client
+     * @return api client
+     */
+    public <T extends AbstractAmazonApi<?>> T getApiClient(Class<T> apiCls, EndPoint endPoint, LWAClientScopes scopes) {
+        return getApiClient(apiCls,endPoint,null,scopes);
+    }
+
+    /**
      * 获取各种api操作客户端
      * @param apiCls 实际API类型
      * @param endPoint 亚马逊端点
@@ -54,7 +66,7 @@ public class AmazonPartnerApiManager {
      * @param <T> 实际客户端操作类
      * @return API实例
      */
-    public <T extends AbstractAmazonApi<?>> T getApiClient(Class<T> apiCls, EndPoint endPoint, String refreshToken, LWAClientScopes scopes) {
+    private  <T extends AbstractAmazonApi<?>> T getApiClient(Class<T> apiCls, EndPoint endPoint, String refreshToken, LWAClientScopes scopes) {
         try {
             String url = endPoint.getUrl();
             if (sandbox) {

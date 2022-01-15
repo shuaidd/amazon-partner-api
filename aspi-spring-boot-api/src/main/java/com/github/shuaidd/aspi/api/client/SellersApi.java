@@ -80,11 +80,7 @@ public class SellersApi extends AbstractAmazonApi<SellersApi> {
 
     @SuppressWarnings("rawtypes")
     private com.squareup.okhttp.Call getMarketplaceParticipationsValidateBeforeCall(final ProgressResponseBody.ProgressListener progressListener, final ProgressRequestBody.ProgressRequestListener progressRequestListener) throws ApiException {
-
-
-        com.squareup.okhttp.Call call = getMarketplaceParticipationsCall(progressListener, progressRequestListener);
-        return call;
-
+        return getMarketplaceParticipationsCall(progressListener, progressRequestListener);
     }
 
     /**
