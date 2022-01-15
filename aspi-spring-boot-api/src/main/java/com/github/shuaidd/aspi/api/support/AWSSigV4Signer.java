@@ -37,7 +37,7 @@ public class AWSSigV4Signer {
     }
 
     /**
-    *
+    * @param awsAuthenticationCredentialsProvider provider
     * @param awsAuthenticationCredentials and awsAuthenticationCredentialsProvider AWS Developer Account Credentials
     */
    public AWSSigV4Signer(AWSAuthenticationCredentials awsAuthenticationCredentials,

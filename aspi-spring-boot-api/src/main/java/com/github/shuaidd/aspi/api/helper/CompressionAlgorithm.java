@@ -8,7 +8,7 @@ public enum CompressionAlgorithm {
 
     /**
      * Convert from any equivalent enum value. If the specified enum value is null, return null.
-     *
+     * @param <T> 实际类型
      * @param val The equivalent enum value to convert
      * @return This enum's equivalent to the specified enum value
      */

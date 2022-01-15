@@ -14,7 +14,7 @@ import java.util.UUID;
  * 描述 api 客户端 统一管理
  *
  * @author ddshuai
- * @date 2022-01-14 17:10
+ * date 2022-01-14 17:10
  **/
 public class AmazonPartnerApiManager {
 
@@ -37,6 +37,7 @@ public class AmazonPartnerApiManager {
      *
      * @param apiCls   实际API类型
      * @param endPoint 亚马逊端点
+     * @param refreshToken token
      * @param <T>      实际客户端操作类
      * @return AbstractAmazonApi 实例
      */
@@ -44,6 +45,15 @@ public class AmazonPartnerApiManager {
         return getApiClient(apiCls,endPoint,refreshToken,null);
     }
 
+    /**
+     * 获取各种api操作客户端
+     * @param apiCls 实际API类型
+     * @param endPoint 亚马逊端点
+     * @param refreshToken token
+     * @param scopes 操作权限范围 grantless 类型接口
+     * @param <T> 实际客户端操作类
+     * @return API实例
+     */
     public <T extends AbstractAmazonApi<?>> T getApiClient(Class<T> apiCls, EndPoint endPoint, String refreshToken, LWAClientScopes scopes) {
         try {
             String url = endPoint.getUrl();

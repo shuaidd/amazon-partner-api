@@ -21,17 +21,27 @@ public class LWAClient {
     private LWAAccessTokenCache lwaAccessTokenCache;
 
     /**
+     * @param tokenCache token缓存
      * Sets cache to store access token until token is expired
      */
     public void setLWAAccessTokenCache(LWAAccessTokenCache tokenCache) {
         this.lwaAccessTokenCache = tokenCache;
     }
 
+    /**
+     * 构造函数
+     * @param endpoint 亚马逊端点
+     */
     public LWAClient(String endpoint) {
         okHttpClient = new OkHttpClient();
         this.endpoint = endpoint;
     }
 
+    /**
+     *  获取token
+     * @param lwaAccessTokenRequestMeta 授权信息
+     * @return token
+     */
     String getAccessToken(LWAAccessTokenRequestMeta lwaAccessTokenRequestMeta) {
         if (lwaAccessTokenCache != null) {
             return getAccessTokenFromCache(lwaAccessTokenRequestMeta);
@@ -40,6 +50,11 @@ public class LWAClient {
         }
     }
 
+    /**
+     * 从缓存获取token
+     * @param lwaAccessTokenRequestMeta 授权信息
+     * @return token
+     */
     String getAccessTokenFromCache(LWAAccessTokenRequestMeta lwaAccessTokenRequestMeta) {
         String accessTokenCacheData = lwaAccessTokenCache.get(lwaAccessTokenRequestMeta);
         if (accessTokenCacheData != null) {
@@ -49,6 +64,11 @@ public class LWAClient {
         }
     }
 
+    /**
+     * 获取token
+     * @param lwaAccessTokenRequestMeta 授权信息
+     * @return token
+     */
     String getAccessTokenFromEndpoint(LWAAccessTokenRequestMeta lwaAccessTokenRequestMeta) {
         RequestBody requestBody = RequestBody.create(JSON_MEDIA_TYPE, new Gson().toJson(lwaAccessTokenRequestMeta));
         Request accessTokenRequest = new Request.Builder().url(endpoint).post(requestBody).build();
@@ -75,11 +95,11 @@ public class LWAClient {
 
     /**
      * 获取亚马逊卖家授权信息
-     * @param authorizationCode
-     * @param clientId
-     * @param clientSecret
-     * @return
-     * @throws IOException
+     * @param authorizationCode 授权码
+     * @param clientId 客户端编号
+     * @param clientSecret 客户端密钥
+     * @return token
+     * @throws IOException 异常
      */
     public String getRefreshToken(String authorizationCode, String clientId, String clientSecret) throws IOException {
         FormEncodingBuilder formBuilder = new FormEncodingBuilder();

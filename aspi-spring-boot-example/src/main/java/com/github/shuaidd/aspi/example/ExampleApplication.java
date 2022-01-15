@@ -8,7 +8,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
  * api 测试模块
  *
  * @author ddshuai
- * @date 2022-01-14 17:18
+ * date 2022-01-14 17:18
  **/
 @EnableAmazonPartner
 @SpringBootApplication

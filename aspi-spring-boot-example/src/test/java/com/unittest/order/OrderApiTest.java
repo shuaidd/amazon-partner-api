@@ -12,7 +12,7 @@ import org.springframework.beans.factory.annotation.Autowired;
  * 描述 订单单元测试类
  *
  * @author ddshuai
- * @date 2022-01-14 18:59
+ * date 2022-01-14 18:59
  **/
 public class OrderApiTest extends AbstractTest {
 

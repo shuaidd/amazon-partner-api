@@ -13,7 +13,7 @@ import java.util.Objects;
  * 描述 亚马逊api自动装配
  *
  * @author ddshuai
- * @date 2022-01-14 17:06
+ * date 2022-01-14 17:06
  **/
 @Configuration
 @EnableConfigurationProperties(AmazonPartnerProperties.class)

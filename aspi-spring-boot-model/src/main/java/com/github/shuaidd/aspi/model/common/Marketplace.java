@@ -11,7 +11,7 @@ import java.util.List;
  * PL,A1C3SOZRARQ6R3,www.amazon.pl
  * SE,A2NODRKZP88ZB9,www.amazon.se
  * @author ddshuai
- * @date 2020-11-28 16:57
+ * date 2020-11-28 16:57
  **/
 @Getter
 public enum Marketplace {

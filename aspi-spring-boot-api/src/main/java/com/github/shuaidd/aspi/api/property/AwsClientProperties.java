@@ -6,7 +6,7 @@ import lombok.Data;
  * 描述 AWS配置信息
  *
  * @author ddshuai
- * @date 2020-11-28 18:11
+ * date 2020-11-28 18:11
  **/
 @Data
 public class AwsClientProperties {

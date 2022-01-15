@@ -11,7 +11,7 @@ import org.springframework.context.annotation.Configuration;
  * 描述 配置信息
  *
  * @author ddshuai
- * @date 2022-01-14 17:35
+ * date 2022-01-14 17:35
  **/
 @Data
 @Configuration

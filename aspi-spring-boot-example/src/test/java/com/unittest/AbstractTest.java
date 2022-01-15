@@ -11,7 +11,7 @@ import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
  * 描述
  *
  * @author ddshuai
- * @date 2020-11-22 15:54
+ * date 2020-11-22 15:54
  **/
 
 @RunWith(SpringJUnit4ClassRunner.class)

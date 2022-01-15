@@ -29,7 +29,7 @@ public class DownloadHelper {
      * caller to call <code>close</code> on the returned {@link AutoCloseable} {@link DownloadBundle}.
      *
      * Common reasons for receiving a 403 response include:
-     * <li> The signed URL has expired
+     *
      *
      * @param spec The specification for the download
      * @return The closeable {@link DownloadBundle}

@@ -32,8 +32,6 @@ public class UploadHelper {
      * before uploading to the specified url.
      *
      * Common reasons for receiving a 403 response include:
-     * <li> The signed URL has expired
-     * <li> {@link UploadSpecification#getContentType()} does not match the content type the URL was signed with
      *
      * @param spec The specification for the upload
      * @throws CryptoException Crypto exception

@@ -4,7 +4,7 @@ package com.github.shuaidd.aspi.api.support;
  * 描述 客户端抽象类
  *
  * @author ddshuai
- * @date 2020-11-22 15:01
+ * date 2020-11-22 15:01
  **/
 public abstract class AbstractAmazonApi<T> {
     protected AWSAuthenticationCredentials awsAuthenticationCredentials;
