@@ -65,7 +65,9 @@ public class AmazonPartnerApiManager {
         return null;
     }
 
-    public AWSAuthenticationCredentials awsAuthenticationCredentials(String region) {
+    private AWSAuthenticationCredentials awsAuthenticationCredentials(String region) {
+        Objects.requireNonNull(awsClientProperties.getAccessKeyId());
+        Objects.requireNonNull(awsClientProperties.getSecretKey());
         return AWSAuthenticationCredentials.builder()
                 .accessKeyId(awsClientProperties.getAccessKeyId())
                 .secretKey(awsClientProperties.getSecretKey())
@@ -73,14 +75,17 @@ public class AmazonPartnerApiManager {
                 .build();
     }
 
-    public AWSAuthenticationCredentialsProvider awsAuthenticationCredentialsProvider() {
+    private AWSAuthenticationCredentialsProvider awsAuthenticationCredentialsProvider() {
+        Objects.requireNonNull(awsClientProperties.getRoleArn());
         return AWSAuthenticationCredentialsProvider.builder()
                 .roleArn(awsClientProperties.getRoleArn())
                 .roleSessionName(UUID.randomUUID().toString())
                 .build();
     }
 
-    public LWAAuthorizationCredentials lwaAuthorizationCredentials(String refreshToken,LWAClientScopes scopes) {
+    private LWAAuthorizationCredentials lwaAuthorizationCredentials(String refreshToken,LWAClientScopes scopes) {
+        Objects.requireNonNull(amazonClientProperties.getClientId());
+        Objects.requireNonNull(amazonClientProperties.getClientSecret());
         return LWAAuthorizationCredentials.builder()
                 .clientId(amazonClientProperties.getClientId())
                 .clientSecret(amazonClientProperties.getClientSecret())

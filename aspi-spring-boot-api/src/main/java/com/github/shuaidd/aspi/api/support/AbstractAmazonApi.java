@@ -49,6 +49,7 @@ public abstract class AbstractAmazonApi<T> {
         return this;
     }
 
+    @SuppressWarnings("unchecked")
     public T instance() {
         if (awsAuthenticationCredentials == null) {
             throw new RuntimeException("AWSAuthenticationCredentials not set");
