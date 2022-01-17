@@ -1,0 +1,134 @@
+{
+  "metaSchema": {
+    "link": {
+      "resource": "https://selling-partner-definitions-prod-iad.s3.amazonaws.com/schema/amazon-product-type-definition-meta-schema-v1.json/R%252BtOle7%252FtlSwgT5dChfExA%253D%253D?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEJ7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJIMEYCIQCnnDFq5Ges%2FnDbAd8SsRZhR4jFag70jd1S8Gc22svGVAIhAKrPqs4TVKH2i4mjD0SPhxrREz9abek672uk%2BDL6tfVQKswDCLf%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQAhoMNTM1Nzg5ODIzODA4IgynUrlVE8jMMua2ftkqoAMrogadRy8%2FkW2Y3ALSlw2SA1hiatWFR0M5uYrTbnxRI5BW46jVcPA0bKRVbo80BuQAcZS%2BICSyHulJT5tTwZ0ruoO6zIRZxvuoP%2BMHbs76gwmvF0cbF%2FKzrF8Bm6a65uMEubMP%2BwWIxaWbdwa%2Fv2HwtV95zcyKAewuW1glHjSUlGRVkW0JKnO4E%2FmhFPJzY9kSMTwUk7uyiqqZ0K7vgmJ0sm5ybIGhEaQr13bSoKefKRRi%2BtCGQRBNN9YDX1s68rWlx7%2FSgT3mxrZOv5fWw1pl%2BCw9ztfyBTg%2Fs6O4ZEJtezmFravcoP0xNLn0M5tZjMdIJXGt7FZID8sdnJzjaZbSjZeOrTsBymD3CmwfiEN5sZOVdFLTeWB%2FVBVhjduPbpWjbv0mgBYu8dkjij3yAtR35Xl6kGC%2FBXIW2dClDL3i%2BYirrjYo7Xk3L1wZBxH3KHitgRfax6H2xuKkD3Dppbp4bDU4VFEZvJ5uMaXYOcP4QfIv2zaDVOY2zCYqqK2xovLrsTW%2FzaE0ABx%2FY6FYfFLhD5%2BLrJ25o%2FD0dev8yMnFQzDNhpSPBjrBAXGWDh%2FfpkwJi8kMddtgJFNXeD7vUnEXb1y7Pn5bL4OMXTyJ%2FTJfDWWYDsxqg%2BD1hMu95egFLbnZK7F6l6i4R9Yp2XBhW6UPOWz31oLZHLfzhl7%2BYJc90wQ3pO2G%2F%2BpXml21S%2FMbksP93A9xCho1E0DX1l6f32X9pRN75zN0gy%2FVSf%2BHhCL2aZsXMnLzfwPppVfwT3qaUoJasXvmLxCyWtxubtccHiuZFKwKC77oMviwfgWdiOMtYTojFLeU9LLVugs%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20220117T055749Z&X-Amz-SignedHeaders=host&X-Amz-Expires=604800&X-Amz-Credential=ASIAXZP4P45AFGVYURTD%2F20220117%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=89ffd0d3a53c02f932fed180a0e00fc7c10a64d1173e72bb444514441044decb",
+      "verb": "GET"
+    },
+    "checksum": "R+tOle7/tlSwgT5dChfExA=="
+  },
+  "schema": {
+    "link": {
+      "resource": "https://selling-partner-definitions-prod-iad.s3.amazonaws.com/schema/PRODUCT.json/pbpi%252BRwF7w%252FN6%252BQDPRZD4A%253D%253D?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEJ7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJIMEYCIQCnnDFq5Ges%2FnDbAd8SsRZhR4jFag70jd1S8Gc22svGVAIhAKrPqs4TVKH2i4mjD0SPhxrREz9abek672uk%2BDL6tfVQKswDCLf%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQAhoMNTM1Nzg5ODIzODA4IgynUrlVE8jMMua2ftkqoAMrogadRy8%2FkW2Y3ALSlw2SA1hiatWFR0M5uYrTbnxRI5BW46jVcPA0bKRVbo80BuQAcZS%2BICSyHulJT5tTwZ0ruoO6zIRZxvuoP%2BMHbs76gwmvF0cbF%2FKzrF8Bm6a65uMEubMP%2BwWIxaWbdwa%2Fv2HwtV95zcyKAewuW1glHjSUlGRVkW0JKnO4E%2FmhFPJzY9kSMTwUk7uyiqqZ0K7vgmJ0sm5ybIGhEaQr13bSoKefKRRi%2BtCGQRBNN9YDX1s68rWlx7%2FSgT3mxrZOv5fWw1pl%2BCw9ztfyBTg%2Fs6O4ZEJtezmFravcoP0xNLn0M5tZjMdIJXGt7FZID8sdnJzjaZbSjZeOrTsBymD3CmwfiEN5sZOVdFLTeWB%2FVBVhjduPbpWjbv0mgBYu8dkjij3yAtR35Xl6kGC%2FBXIW2dClDL3i%2BYirrjYo7Xk3L1wZBxH3KHitgRfax6H2xuKkD3Dppbp4bDU4VFEZvJ5uMaXYOcP4QfIv2zaDVOY2zCYqqK2xovLrsTW%2FzaE0ABx%2FY6FYfFLhD5%2BLrJ25o%2FD0dev8yMnFQzDNhpSPBjrBAXGWDh%2FfpkwJi8kMddtgJFNXeD7vUnEXb1y7Pn5bL4OMXTyJ%2FTJfDWWYDsxqg%2BD1hMu95egFLbnZK7F6l6i4R9Yp2XBhW6UPOWz31oLZHLfzhl7%2BYJc90wQ3pO2G%2F%2BpXml21S%2FMbksP93A9xCho1E0DX1l6f32X9pRN75zN0gy%2FVSf%2BHhCL2aZsXMnLzfwPppVfwT3qaUoJasXvmLxCyWtxubtccHiuZFKwKC77oMviwfgWdiOMtYTojFLeU9LLVugs%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20220117T055749Z&X-Amz-SignedHeaders=host&X-Amz-Expires=604800&X-Amz-Credential=ASIAXZP4P45AFGVYURTD%2F20220117%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=c924c6005caaa0a64710ffba0e499ac5e16ba82cdb0350ed2935a84ec14b85b3",
+      "verb": "GET"
+    },
+    "checksum": "pbpi+RwF7w/N6+QDPRZD4A=="
+  },
+  "requirements": "LISTING",
+  "requirementsEnforced": "ENFORCED",
+  "propertyGroups": {
+    "offer": {
+      "title": "报价",
+      "description": "产品报价",
+      "propertyNames": [
+        "skip_offer",
+        "fulfillment_availability",
+        "map_policy",
+        "purchasable_offer",
+        "condition_type",
+        "condition_note",
+        "list_price",
+        "product_tax_code",
+        "merchant_release_date",
+        "merchant_shipping_group",
+        "max_order_quantity",
+        "gift_options",
+        "main_offer_image_locator",
+        "other_offer_image_locator_1",
+        "other_offer_image_locator_2",
+        "other_offer_image_locator_3",
+        "other_offer_image_locator_4",
+        "other_offer_image_locator_5"
+      ]
+    },
+    "images": {
+      "title": "图片",
+      "description": "请提供媒体内容，例如产品图片",
+      "propertyNames": [
+        "main_product_image_locator",
+        "other_product_image_locator_1",
+        "other_product_image_locator_2",
+        "other_product_image_locator_3",
+        "other_product_image_locator_4",
+        "other_product_image_locator_5",
+        "other_product_image_locator_6",
+        "other_product_image_locator_7",
+        "other_product_image_locator_8",
+        "swatch_product_image_locator"
+      ]
+    },
+    "shipping": {
+      "title": "运输",
+      "description": "确定产品运输和储存的信息（例如，包装尺寸、重量、体积）",
+      "propertyNames": [
+        "item_dimensions",
+        "item_package_dimensions",
+        "item_package_weight"
+      ]
+    },
+    "variations": {
+      "title": "变种",
+      "description": "产品将使用的变体",
+      "propertyNames": [
+        "parentage_level",
+        "child_parent_sku_relationship",
+        "variation_theme"
+      ]
+    },
+    "safety_and_compliance": {
+      "title": "安全与合规",
+      "description": "指示产品合规性、危险材料以及法律和安全警告的信息（例如，锂电池、窒息危险，《消费品安全信息法》(CPSIA)）",
+      "propertyNames": [
+        "safety_warning",
+        "country_of_origin",
+        "warranty_description",
+        "batteries_required",
+        "batteries_included",
+        "battery",
+        "num_batteries",
+        "number_of_lithium_metal_cells",
+        "number_of_lithium_ion_cells",
+        "lithium_battery",
+        "supplier_declared_dg_hz_regulation",
+        "contains_liquid_contents",
+        "hazmat",
+        "safety_data_sheet_url",
+        "item_weight",
+        "ghs",
+        "liquid_volume"
+      ]
+    },
+    "product_identity": {
+      "title": "产品识别",
+      "description": "用于唯一标识产品的信息（例如，UPC、EAN、GTIN、产品类型、品牌）",
+      "propertyNames": [
+        "item_name",
+        "brand",
+        "externally_assigned_product_identifier",
+        "merchant_suggested_asin",
+        "supplier_declared_has_product_identifier_exemption",
+        "recommended_browse_nodes"
+      ]
+    },
+    "product_details": {
+      "title": "产品详情",
+      "description": "描述产品以支持搜索、浏览和详细页面内容的信息和特征（例如，项目符号、产品功能、型号、样式名称）",
+      "propertyNames": [
+        "product_description",
+        "bullet_point",
+        "generic_keyword",
+        "color",
+        "manufacturer_contact_information"
+      ]
+    }
+  },
+  "locale": "zh_CN",
+  "marketplaceIds": [
+    "A2EUQ1WTGCTBG2"
+  ],
+  "productType": "PRODUCT",
+  "productTypeVersion": {
+    "version": "Up9pF5YUJ95hQD2x8sDBXkQ0orIXg2NQr",
+    "latest": true,
+    "releaseCandidate": false
+  }
+}

@@ -67,6 +67,10 @@ public class AmazonPartnerApiManager {
      * @return API实例
      */
     private  <T extends AbstractAmazonApi<?>> T getApiClient(Class<T> apiCls, EndPoint endPoint, String refreshToken, LWAClientScopes scopes) {
+        if (StringUtil.isEmpty(refreshToken) && Objects.isNull(scopes)) {
+            throw new RuntimeException("refreshToken和scopes不能同时为空");
+        }
+
         try {
             String url = endPoint.getUrl();
             if (sandbox) {
