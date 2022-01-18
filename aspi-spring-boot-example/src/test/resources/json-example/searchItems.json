@@ -1,0 +1,143 @@
+{
+  "numberOfResults": 1000,
+  "pagination": {
+    "nextToken": "9HkIVcuuPmX_bm51o3-igBfN45pxW4Ru7ElIM6GCECYCuXJKzT26f8SIchDRllRrjUkL-3xsiLpwt_JvE7qiRm-1LmWpLYmNm4puQNUxSwQ5zBx-vdDguu-ZIpLIMVKn9BJwSW_uH2OuGsCpsbtG6R1l1vj7KQoFIa7pWiOPHyaYWP7sBE9Fg7cGN2wE0an5ePw96h6ZL7m6olRxFOcqTWNanEVRjipq"
+  },
+  "refinements": {
+    "brands": [
+      {
+        "numberOfResults": 368,
+        "brandName": "IKFIVQD"
+      },
+      {
+        "numberOfResults": 310,
+        "brandName": "JEPI"
+      },
+      {
+        "numberOfResults": 146,
+        "brandName": "Eoailr"
+      },
+      {
+        "numberOfResults": 121,
+        "brandName": "Coohole"
+      },
+      {
+        "numberOfResults": 96,
+        "brandName": "Gergeos"
+      },
+      {
+        "numberOfResults": 78,
+        "brandName": "Primigi"
+      },
+      {
+        "numberOfResults": 76,
+        "brandName": "Ikevan"
+      },
+      {
+        "numberOfResults": 75,
+        "brandName": "Pampili"
+      },
+      {
+        "numberOfResults": 75,
+        "brandName": "KONF"
+      },
+      {
+        "numberOfResults": 74,
+        "brandName": "Leisuraly"
+      }
+    ],
+    "classifications": []
+  },
+  "items": [
+    {
+      "asin": "B09HP3465K",
+      "productTypes": [
+        {
+          "marketplaceId": "ATVPDKIKX0DER",
+          "productType": "SHIRT"
+        }
+      ]
+    },
+    {
+      "asin": "B08QZGRDRK",
+      "productTypes": [
+        {
+          "marketplaceId": "ATVPDKIKX0DER",
+          "productType": "HOME_FURNITURE_AND_DECOR"
+        }
+      ]
+    },
+    {
+      "asin": "B08D96RSJF",
+      "productTypes": [
+        {
+          "marketplaceId": "ATVPDKIKX0DER",
+          "productType": "SHOES"
+        }
+      ]
+    },
+    {
+      "asin": "B094854L75",
+      "productTypes": [
+        {
+          "marketplaceId": "ATVPDKIKX0DER",
+          "productType": "SANDAL"
+        }
+      ]
+    },
+    {
+      "asin": "B07C3QDXCH",
+      "productTypes": [
+        {
+          "marketplaceId": "ATVPDKIKX0DER",
+          "productType": "SANDAL"
+        }
+      ]
+    },
+    {
+      "asin": "B0746GN8B8",
+      "productTypes": [
+        {
+          "marketplaceId": "ATVPDKIKX0DER",
+          "productType": "SANDAL"
+        }
+      ]
+    },
+    {
+      "asin": "B095XWCPX4",
+      "productTypes": [
+        {
+          "marketplaceId": "ATVPDKIKX0DER",
+          "productType": "HAIRBAND"
+        }
+      ]
+    },
+    {
+      "asin": "B082DPNS46",
+      "productTypes": [
+        {
+          "marketplaceId": "ATVPDKIKX0DER",
+          "productType": "SANDAL"
+        }
+      ]
+    },
+    {
+      "asin": "B09DW4Z2MS",
+      "productTypes": [
+        {
+          "marketplaceId": "ATVPDKIKX0DER",
+          "productType": "SANDAL"
+        }
+      ]
+    },
+    {
+      "asin": "B004INHUBM",
+      "productTypes": [
+        {
+          "marketplaceId": "ATVPDKIKX0DER",
+          "productType": "SANDAL"
+        }
+      ]
+    }
+  ]
+}

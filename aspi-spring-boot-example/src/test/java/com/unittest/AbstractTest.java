@@ -23,6 +23,8 @@ public class AbstractTest {
 
     protected final Logger logger = LoggerFactory.getLogger(this.getClass());
 
+    public static final String LOCATE_ZH = "zh_CN";
+
     @Autowired
     protected AmazonPartnerProperties partnerProperties;
 

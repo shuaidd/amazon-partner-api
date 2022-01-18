@@ -1,9 +1,2061 @@
 {
   "productTypes": [
     {
+      "name": "3D_PRINTER",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "ACCESSORY",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "ACCESSORY_OR_PART_OR_SUPPLY",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "ADULT_COSTUME",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "AIR_MATTRESS",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "ANTENNA",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "APPAREL",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "APPAREL_BELT",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "APPAREL_GLOVES",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "APRON",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "ARM_SLEEVE",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "AROMA_DIFFUSER",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "ART",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "ARTIFICIAL_PLANT",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "ARTIFICIAL_TREE",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "ART_AND_CRAFT_SUPPLY",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "ASHTRAY",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "AUDIO_DEVICE",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "AUDIO_OR_VIDEO",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "AV_FURNITURE",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "AV_RECEIVER",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "BABY_COSTUME",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "BACKDROP",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "BACKPACK",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "BAG",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "BASKET",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "BATTERY",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "BEAN_BAG_CHAIR",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "BED",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "BEDDING_SET",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "BED_FRAME",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "BED_LINEN",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "BED_LINEN_SET",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "BED_RAIL",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "BED_SKIRT",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "BENCH",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "BINOCULAR",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "BLANKET",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "BLANK_MEDIA",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "BLANK_MEDIA_FOR_CAMERAS",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "BLAZER",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "BODY_POSITIONER",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "BODY_STRAP",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "BOOKEND",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "BOOKSHELF_OR_MICRO_STEREO_SYS",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "BOOT",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "BOTTLE",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "BOTTLE_RACK",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "BRA",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "BRA_UNDERWEAR_SET",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "BROOM",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "BUCKET",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "BUNGEE_CORD",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "CABINET",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "CABLE_OR_ADAPTER",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "CADDY",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "CALCULATOR",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "CAMCORDER",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "CAMERA_BAGS_AND_CASES",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "CAMERA_DIGITAL",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "CAMERA_FILM",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "CAMERA_FLASH",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "CAMERA_LENSES",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "CAMERA_LENS_FILTERS",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "CAMERA_OTHER_ACCESSORIES",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "CAMERA_POWER_SUPPLY",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "CAMERA_SUPPORT",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "CAMERA_TRIPOD",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "CAMISOLE",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "CANDLE_HOLDER",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "CARRYING_CASE_OR_BAG",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "CAR_AUDIO_OR_THEATER",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "CAR_ELECTRONICS",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "CD_PLAYER_OR_RECORDER",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "CELLULAR_PHONE",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "CELLULAR_PHONE_CASE",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "CELL_PHONE_HOLSTER",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "CE_ACCESSORY",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "CHAIR",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "CHANCHANKO",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "CHARGING_ADAPTER",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "CHOLI",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "CISTERN",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "CLEANING_BRUSH",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "CLOCK",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "CLOCK_OR_CLOCK_RADIO",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "CLOTHES_PIN",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "CLOTHES_RACK",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "CLOTH_NAPKIN",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "COAT",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "COIN_PURSE_POUCH",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "COMBINED_AV_DEVICE",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "COMPUTER",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "COMPUTER_ADD_ON",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "COMPUTER_CHASSIS",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "COMPUTER_COMPONENT",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "COMPUTER_DRIVE_OR_STORAGE",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "COMPUTER_PROCESSOR",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "COMPUTER_VIDEO_GAME_CONTOLLER",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "CONSUMER_ELECTRONICS",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "CORRECTIVE_EYEGLASSES",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "CORSET",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "COSMETIC_CASE",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "CRIB",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "CURTAIN",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "CURTAIN_FASTENER",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "DECORATIVE_MAGNET",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "DESK",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "DIGITAL_PICTURE_FRAME",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "DIGITAL_VIDEO_RECORDER",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "DRAIN_STRAINER",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "DRESS",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "DRESSER",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "DRYING_RACK",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "DUFFEL_BAG",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "DUPATTA",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "DUST_REMOVAL_TOOL",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "DUVET_COVER",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "DVD_PLAYER_OR_RECORDER",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "EARMUFF",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "ELECTRONIC_ADAPTER",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "ELECTRONIC_BOOK_READER",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "ELECTRONIC_DEVICE_DOCKING_STATION",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "ELECTRONIC_DEVICE_SKIN",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "ETHNIC_WEAR",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "EYEGLASS_FRAME",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "EYEWEAR",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "FABRIC",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "FAX_MACHINE",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "FIGURINE",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "FIREPLACE",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "FITTED_SHEET",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "FLASH_DRIVE",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "FLASH_MEMORY",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "FLAT_SCREEN_DISPLAY_MOUNT",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "FLAT_SHEET",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "FOOD_BIB",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "FOOTWEAR",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "FOUNTAIN",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "FURNITURE",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "FURNITURE_COVER",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "FURNITURE_LINER",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "GPS_OR_NAVIGATION_ACCESSORY",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "GPS_OR_NAVIGATION_SYSTEM",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "GRAPHIC_TABLET",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "HAMMOCK",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "HANDBAG",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "HANDHELD_OR_PDA",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "HANDHELD_OR_PDA_ACCESSORY",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "HANGING_ROD",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "HAT",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "HEADBOARD",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "HEADPHONES",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "HOME",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "HOME_BED_AND_BATH",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "HOME_FURNITURE_AND_DECOR",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "HOME_MIRROR",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "HOME_ORGANIZERS_AND_STORAGE",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "HOME_PARTS",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "HOME_THEATER_SYSTEM_OR_HTIB",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "HOSIERY",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "HVAC_CONTROL_THERMOSTAT",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "INCENSE",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "INCENSE_HOLDER",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "INDOOR_GROW_ENCLOSURE",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "INKJET_PRINTER_INK",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "INK_OR_TONER",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "INPUT_MOUSE",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "INPUT_PEN",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "IRONING_BOARD",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "JEWELRY_STORAGE",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "JINBEI",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "KEYBOARDS",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "KEYCHAIN",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "KIMONO",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "KURTA",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "LADDER",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "LANDLINE_PHONE",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "LAP_DESK",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "LAUNDRY_HAMPER",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "LEHENGA_CHOLI_SET",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "LEOTARD",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "LIGHT_FIXTURE",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "LINT_REMOVER",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "LUGGAGE",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "MAGNIFIER",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "MAILBOX",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "MATERIAL_HANDLING_TRUCK",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "MATTRESS",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "MATTRESS_COVER",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "MEDIA_READER",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "MEDIA_STORAGE",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "MEMORY_READER",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "MICROPHONE",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "MONEY_BANK",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "MOTHERBOARD",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "MOUSE_PAD",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "MP3_PLAYER",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "MULTIPORT_HUB",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "NECKTIE",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "NETTING_COVER",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "NETWORKING_ROUTER",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "NETWORK_ADAPTER",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "NETWORK_INTERFACE_CONTROLLER_ADAPTER",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "NIGHTGOWN_NIGHTSHIRT",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "NOTEBOOK_COMPUTER",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "OBI",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "OFFICE_ELECTRONICS",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "ONBOARD_CAMERA",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "ONE_PIECE_OUTFIT",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "OPTICAL_DISC_DRIVE",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "ORCA_SHIRT",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "OTTOMAN",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "OUTERWEAR",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "OVERALLS",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "PAINT_BRUSH",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "PAJAMAS",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "PAPER_TOWEL_HOLDER",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "PDA",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "PERSONAL_COMPUTER",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "PET_DOOR",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "PHONE",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "PHONE_ACCESSORY",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "PHOTOGRAPHIC_PAPER",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "PHOTOGRAPHIC_STUDIO_ITEMS",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "PICNIC_HOLDER",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "PLANTER",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "PLAY_SLIDE",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "PLUG_STOPPER",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "PORTABLE_AUDIO",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "PORTABLE_AV_DEVICE",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "PORTABLE_ELECTRONICS",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "PORTABLE_ELECTRONIC_DEVICE_STAND",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "PORTABLE_TOOL_BOX",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "POWER_CONVERTER",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "POWER_CORD",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "POWER_STRIP",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "POWER_SUPPLIES_OR_PROTECTION",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "POWER_SUPPLY",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "PRINTER",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "PRINTER_CONSUMABLE",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
       "name": "PRODUCT",
       "marketplaceIds": [
-        "A2EUQ1WTGCTBG2"
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "PUMP_DISPENSER",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "RADIO",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "RAM_MEMORY",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "RECEIVER_OR_AMPLIFIER",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "REMOTE_CONTROL",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "ROBE",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "ROBOTIC_VACUUM_CLEANER",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "ROOM_DIVIDER",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "RUBBER_STAMP",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "SAFE",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "SALWAR_SUIT_SET",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "SANDAL",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "SAREE",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "SATELLITE_OR_DSS",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "SCANNER",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "SCARF",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "SCULPTURE",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "SHELF",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "SHOELACE",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "SHOES",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "SHOE_ACCESSORY",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "SHOE_BAG",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "SHORTS",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "SHORTWAVE_RADIO",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "SKIRT",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "SLEEPWEAR",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "SLIPPER",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "SNOW_GLOBE",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "SOCKS",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "SOCKSHOSIERY",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "SOFA",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "SOUND_CARD",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "SPEAKERS",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "SPLASH_POOL",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "SQUEEGEE",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "STANDALONE_STREAMING_MEDIA_PLAYER",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "STEP_STOOL",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "STOOL_SEATING",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "STORAGE_DRAWER",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "STORAGE_RACK",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "SUIT",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "SUITCASE",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "SUNGLASSES",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "SURVEILANCE_SYSTEMS",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "SUSPENDER",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "SWEATSHIRT",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "SWIMWEAR",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "SWING",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "SYSTEM_CABINET",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "SYSTEM_POWER_DEVICE",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "TABLE",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "TABLECLOTH",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "TABLET_COMPUTER",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "TARP",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "TASK_TRAY",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "TECHNICAL_SPORT_SHOE",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "TELESCOPE",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "TIGHTS",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "TIMER",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "TOILET_PAPER_HOLDER",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "TOOTHBRUSH_HOLDER",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "TOTE_BAG",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "TOWEL_HOLDER",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "TRACK_SUIT",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "TRAY",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "TREE_SKIRT",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "TREE_TOPPER",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "TUNER",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "TUNIC",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "TURNTABLE",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "TWO_WAY_RADIO",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "UMBRELLA",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "UNDERGARMENT_SLIP",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "UNDERGARMENT_THIGH_SLIMMER",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "UNDERPANTS",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "UNDERWEAR",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "UTILITY_CART_WAGON",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "VACUUM_CLEANER",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "VASE",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "VCR",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "VEHICLE_SAFETY_CAMERA",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "VEST",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "VIDEO_CARD",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "VIDEO_CONFERENCE_EQUIPMENT",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "VIDEO_DEVICE",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "VIDEO_DISC_PLAYER",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "VIDEO_PROJECTOR",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "VIRTUAL_REALITY_HEADSET",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "VOICE_RECORDER",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "WAIST_CINCHER",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "WAIST_PACK",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "WALLET",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "WASTE_BAG",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "WATERING_CAN",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "WATER_DISPENSER",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "WEARABLE_COMPUTER",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "WEBCAM",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "WINDOW_FILM",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "WINDOW_SHADE",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "WREATH",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
+      ]
+    },
+    {
+      "name": "YUKATA",
+      "marketplaceIds": [
+        "ATVPDKIKX0DER"
       ]
     }
   ]

@@ -11,7 +11,7 @@
  */
 
 
-package com.github.shuaidd.aspi.api.client;
+package com.github.shuaidd.aspi.api.client.catalog.vo;
 
 import com.github.shuaidd.aspi.api.support.*;
 import com.github.shuaidd.aspi.model.catalog.GetCatalogItemResponse;

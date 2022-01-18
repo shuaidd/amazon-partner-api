@@ -3,6 +3,7 @@ package com.unittest.product;
 import com.github.shuaidd.aspi.api.client.ProductDefinitionsApi;
 import com.github.shuaidd.aspi.api.client.ProductFeesApi;
 import com.github.shuaidd.aspi.model.common.EndPoint;
+import com.github.shuaidd.aspi.model.common.Marketplace;
 import com.github.shuaidd.aspi.model.product.type.ProductType;
 import com.github.shuaidd.aspi.model.product.type.ProductTypeDefinition;
 import com.github.shuaidd.aspi.model.product.type.ProductTypeList;
@@ -16,7 +17,7 @@ import java.util.Collections;
  * product api test
  *
  * @author ddshuai
- * @date 2022-01-17 11:14
+ * date 2022-01-17 11:14
  **/
 public class ProductTest extends AbstractTest {
 
@@ -25,7 +26,7 @@ public class ProductTest extends AbstractTest {
 
     @Before
     public void init() {
-        productDefinitionsApi = amazonPartnerApiManager.getApiClient(ProductDefinitionsApi.class, EndPoint.US_EAST, partnerProperties.getAmazonClient().getRefreshToken());
+        productDefinitionsApi = amazonPartnerApiManager.getApiClient(ProductDefinitionsApi.class, EndPoint.US_WEST, partnerProperties.getAmazonClient().getRefreshToken());
         feesApi = amazonPartnerApiManager.getApiClient(ProductFeesApi.class, EndPoint.EU_WEST, partnerProperties.getAmazonClient().getRefreshToken());
     }
 
@@ -34,7 +35,7 @@ public class ProductTest extends AbstractTest {
      */
     @Test
     public void getDefinitions() {
-        ProductTypeList typeList = productDefinitionsApi.searchDefinitionsProductTypes(Collections.singletonList("A1AM78C64UM0Y8"), null);
+        ProductTypeList typeList = productDefinitionsApi.searchDefinitionsProductTypes(Collections.singletonList(Marketplace.GB.getMarketplaceId()), null);
         logger.info("{}--{}", typeList.getProductTypes().size(), typeList);
         for (ProductType productType : typeList.getProductTypes()) {
             logger.info("{}", productType.getName());
@@ -47,6 +48,6 @@ public class ProductTest extends AbstractTest {
      */
     @Test
     public void getDefinitionsProductType() {
-        productDefinitionsApi.getDefinitionsProductType("PRODUCT", Collections.singletonList("A1VC38T7YXB528"), null, null, null, null, "zh_CN");
+        productDefinitionsApi.getDefinitionsProductType("PRODUCT", Collections.singletonList("A1VC38T7YXB528"), null, null, null, null, LOCATE_ZH);
     }
 }
