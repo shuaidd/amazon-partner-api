@@ -18,8 +18,8 @@ public class OrderApiTest extends AbstractTest {
 
     @Test
     public void getOrder() {
-        OrderApi orderApi = amazonPartnerApiManager.getApiClient(OrderApi.class, EndPoint.EU_WEST,partnerProperties.getAmazonClient().getRefreshToken());
-        GetOrderResponse response = orderApi.getOrder("113-8318517-8753850");
+        OrderApi orderApi = amazonPartnerApiManager.getApiClient(OrderApi.class, EndPoint.US_EAST,partnerProperties.getAmazonClient().getRefreshToken());
+        GetOrderResponse response = orderApi.getOrder("113-7425102-4930642");
         logger.info("{}",response);
     }
 }

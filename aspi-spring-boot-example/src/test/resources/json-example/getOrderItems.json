@@ -1,0 +1,43 @@
+{
+  "payload": {
+    "OrderItems": [
+      {
+        "TaxCollection": {
+          "Model": "MarketplaceFacilitator",
+          "ResponsibleParty": "Amazon Services, Inc."
+        },
+        "ProductInfo": {
+          "NumberOfItems": "1"
+        },
+        "BuyerInfo": {},
+        "ItemTax": {
+          "CurrencyCode": "USD",
+          "Amount": "2.64"
+        },
+        "QuantityShipped": 1,
+        "ItemPrice": {
+          "CurrencyCode": "USD",
+          "Amount": "32.99"
+        },
+        "ASIN": "B08TZJMTWJ",
+        "SellerSKU": "IRD581945",
+        "Title": "Turbohorn 300DB 2020 New Generation Train Horn for Cars 2 Pack, 300 DB Train Horn for Trucks The Loudest Horn Ever, 12v Loud Treble and Bass Air Horn",
+        "IsGift": "false",
+        "ConditionSubtypeId": "New",
+        "IsTransparency": false,
+        "QuantityOrdered": 1,
+        "PromotionDiscountTax": {
+          "CurrencyCode": "USD",
+          "Amount": "0.00"
+        },
+        "ConditionId": "New",
+        "PromotionDiscount": {
+          "CurrencyCode": "USD",
+          "Amount": "0.00"
+        },
+        "OrderItemId": "34898530347282"
+      }
+    ],
+    "AmazonOrderId": "113-7425102-4930642"
+  }
+}

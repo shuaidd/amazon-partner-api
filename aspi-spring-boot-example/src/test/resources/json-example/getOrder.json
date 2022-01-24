@@ -1,0 +1,55 @@
+{
+  "payload": {
+    "BuyerInfo": {},
+    "AmazonOrderId": "113-7425102-4930642",
+    "EarliestDeliveryDate": "2022-02-11T08:00:00Z",
+    "EarliestShipDate": "2022-01-24T08:00:00Z",
+    "SalesChannel": "Amazon.com",
+    "AutomatedShippingSettings": {
+      "HasAutomatedShippingSettings": false
+    },
+    "OrderStatus": "Shipped",
+    "NumberOfItemsShipped": 1,
+    "OrderType": "StandardOrder",
+    "IsPremiumOrder": false,
+    "IsPrime": false,
+    "FulfillmentChannel": "MFN",
+    "NumberOfItemsUnshipped": 0,
+    "IsReplacementOrder": false,
+    "IsSoldByAB": false,
+    "LatestShipDate": "2022-01-26T07:59:59Z",
+    "ShipServiceLevel": "Std US D2D Dom",
+    "DefaultShipFromLocationAddress": {
+      "StateOrRegion": "山西省",
+      "AddressLine1": "null",
+      "Phone": "null",
+      "PostalCode": "030800",
+      "City": "晋中市",
+      "CountryCode": "CN",
+      "County": "太谷区",
+      "Name": "null"
+    },
+    "IsISPU": false,
+    "MarketplaceId": "ATVPDKIKX0DER",
+    "LatestDeliveryDate": "2022-03-08T07:59:59Z",
+    "PurchaseDate": "2022-01-20T16:10:51Z",
+    "ShippingAddress": {
+      "StateOrRegion": "AL",
+      "PostalCode": "35019-8405",
+      "City": "BAILEYTON",
+      "CountryCode": "US"
+    },
+    "PaymentMethod": "Other",
+    "IsBusinessOrder": false,
+    "OrderTotal": {
+      "CurrencyCode": "USD",
+      "Amount": "35.63"
+    },
+    "PaymentMethodDetails": [
+      "Standard"
+    ],
+    "IsGlobalExpressEnabled": false,
+    "LastUpdateDate": "2022-01-21T00:19:19Z",
+    "ShipmentServiceLevelCategory": "Standard"
+  }
+}

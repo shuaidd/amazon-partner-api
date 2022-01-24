@@ -5,7 +5,6 @@ import com.github.shuaidd.aspi.api.client.ProductFeesApi;
 import com.github.shuaidd.aspi.model.common.EndPoint;
 import com.github.shuaidd.aspi.model.common.Marketplace;
 import com.github.shuaidd.aspi.model.product.type.ProductType;
-import com.github.shuaidd.aspi.model.product.type.ProductTypeDefinition;
 import com.github.shuaidd.aspi.model.product.type.ProductTypeList;
 import com.unittest.AbstractTest;
 import org.junit.Before;

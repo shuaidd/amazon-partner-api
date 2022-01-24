@@ -31,7 +31,7 @@ public class CatalogItemTest extends AbstractTest {
 
     @Test
     public void getByAsin(){
-        catalogApi.getCatalogItem(Marketplace.US.getMarketplaceId(),"B09DW4Z2MS");
+        GetCatalogItemResponse response = catalogApi.getCatalogItem(Marketplace.US.getMarketplaceId(),"B08MPYNK1N");
     }
 
     /**
